@@ -1,0 +1,1 @@
+![[Exponential power serise.png]]
