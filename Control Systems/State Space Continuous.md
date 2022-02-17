@@ -1,8 +1,8 @@
 # State space control
 - Matrix of first order differential
 - Canonical forms
-	- [[Controller]]
-	- [[Observer]]
+	- [[Control Canonical Form]]
+	- [[Observer Canonical Form]]
 	- [[Jordan]]
 - Eigen values are poles of system
 - Estimator

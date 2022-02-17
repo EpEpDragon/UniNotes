@@ -16,6 +16,15 @@ Note **integrator block** in [[State Space Continuous]] replaced with **unit del
 - State space describes full internal state
 - [[Discrete TF State Space Relationship]]
 
+## State space forms
+There are infinitly many state vector choices and thus infinite forms, there are however some special forms that reduce complexity:
+- [[Control Canonical Form]] (First companion form)
+- [[Observer Canonical Form]] (Second companion form)
+
+These states can be found from the transfer function see: [[Discrete TF State Space Relationship]].
+
+Or by using the [[Control Canonical Form]] [[Observer Canonical Form]] relationship
+
 ## Eigen values and poles
 From the [[Matrix Eigen Value]] and [[Discrete TF State Space Relationship]] it can be seen that the eigen values of the system matrix **F** are equal to the poles of the system.
 
