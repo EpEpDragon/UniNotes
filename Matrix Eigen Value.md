@@ -1,2 +1,2 @@
-With eigen values $\lambda$
+With matrix **A** having eigen values $\lambda$ 
 $|\lambda I-A| = 0$

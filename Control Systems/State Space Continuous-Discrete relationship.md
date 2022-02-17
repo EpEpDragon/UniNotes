@@ -21,6 +21,7 @@ Thus:
 ## Derivation
 - The **D/A** converter is modeled as a [[ZOH]]
 - The **A/D** converter is modeled as a [[Sampler]]
+
 ![[Pasted image 20220217113744.png]]
 Equivalent system:
 ![[Pasted image 20220217114410.png]]
