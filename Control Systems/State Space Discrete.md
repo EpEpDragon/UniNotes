@@ -26,7 +26,7 @@ These states can be found from the transfer function see: [[Discrete TF State Sp
 Or by using the [[Control Canonical Form]] [[Observer Canonical Form]] relationship
 
 ## Eigen values and poles
-From the [[Matrix Eigen Value]] and [[Discrete TF State Space Relationship]] it can be seen that the eigen values of the system matrix **F** are equal to the poles of the system.
+From the matrix [[Eigen Value]] and [[Discrete TF State Space Relationship]] it can be seen that the eigen values of the system matrix **F** are equal to the poles of the system.
 
 Matlab:
 	poles = eig(F)
