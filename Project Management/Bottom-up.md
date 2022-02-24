@@ -1,0 +1,1 @@
+Building up and integrating parts into successively larger parts

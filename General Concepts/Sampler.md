@@ -7,5 +7,9 @@
 ![[Sampling.png]]
 
 ## Frequency domain
-Using the [[Fourier transform]] the frequency domain can be found. This leads to the [[Nyquist Theorem]]
+Using the [[Fourier transform]] the frequency domain representation can be found. This leads to the [[Nyquist Theorem]]
 ![[SamplerFrequencyDomain.png]]
+Sampling in the frequency domain leads to a periodic time signal:
+![[Pasted image 20220224164832.png]]
+ From the [[Periodic Fourire Transform]] and [[DFT]] the frequency time relationship can be found as such:
+ ![[Pasted image 20220224171737.png]]

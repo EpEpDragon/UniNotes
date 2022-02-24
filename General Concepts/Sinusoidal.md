@@ -1,1 +1,1 @@
-![[Sinusoidal Signals.png]]
+![[Sinusoidal Signals.png]]![[Pasted image 20220224162535.png]]![[Pasted image 20220224162849.png]]

@@ -14,3 +14,6 @@ Thus has **precise magnitude** values at **discrete time** points
 These operations are **not** [[Commutative]]
 - [[Time Shift]]
 - [[Reflection About Time Origin]]
+
+## Frequency domain
+The [[DFT]] can be used to convert to frequency domain

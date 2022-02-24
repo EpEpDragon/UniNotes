@@ -1,0 +1,12 @@
+# Life cycle
+- Conception
+- Definition
+- Design
+- Development
+- Fabrication
+- Testing
+- Installation/Launch
+- Production
+- Operation, maintenance
+- Enchancement
+- Replacement/Termination

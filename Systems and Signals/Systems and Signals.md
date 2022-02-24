@@ -13,3 +13,5 @@ When converting between signals, if adhering to the [[Nyquist Theorem]], no data
 	- Complete **Analog** to **Digital**:
 	![[Analog to digital.png]]
 
+## Finite data frequncy analysis
+Since a signal can only be observer for a inite period of time, [[Widowing]] is used to model realistic time signal for frequency analysis.
