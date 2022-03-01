@@ -1,5 +1,6 @@
 # Control Systems
-## Types
+## Control Types
 - [[Feedback Control]]
 - [[State Space Continuous]]
 - [[State Space Discrete]]
+

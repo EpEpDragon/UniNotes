@@ -30,6 +30,9 @@ From the matrix [[Eigen Value]] and [[Discrete TF State Space Relationship]] it 
 
 Matlab:
 	poles = eig(F)
+	
+## [[Observer]]
+Used to approximate internal states
 
 ## Design
 - Obtain [[State Space Discrete]] plant model using:
@@ -37,4 +40,6 @@ Matlab:
 	- The [[State Space Continuous-Discrete relationship]]
 		- By approximation $e^{At}$ to finite terms or
 		- Calculate $e^{At}$ exactly using the [[Laplace transform]]
-
+- Design a contoller architecture:
+	- [[State Regulator]]
+	- 
