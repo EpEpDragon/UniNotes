@@ -12,7 +12,7 @@ No distinction between acts and omissions
 #### Strengths:
 - Consistency
 - Clear about goals of morality
-- Clear about method for determing right and wrong
+- Clear about method for determining right and wrong
 - Fundamental equality
 
 #### Problems:

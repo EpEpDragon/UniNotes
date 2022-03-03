@@ -11,5 +11,5 @@ Using the [[Fourier transform]] the frequency domain representation can be found
 ![[SamplerFrequencyDomain.png]]
 Sampling in the frequency domain leads to a periodic time signal:
 ![[Pasted image 20220224164832.png]]
- From the [[Periodic Fourire Transform]] and [[DFT]] the frequency time relationship can be found as such:
+ From the [[Periodic Fourire Transform]] and [[DTFT]] the frequency time relationship can be found as such:
  ![[Pasted image 20220224171737.png]]

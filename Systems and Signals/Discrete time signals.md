@@ -16,4 +16,4 @@ These operations are **not** [[Commutative]]
 - [[Reflection About Time Origin]]
 
 ## Frequency domain
-The [[DFT]] can be used to convert to frequency domain
+The [[DTFT]] can be used to convert to frequency domain

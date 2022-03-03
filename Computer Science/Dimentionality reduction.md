@@ -61,3 +61,6 @@ Using [[SVD]] allows PCA without the need to calculate the [[Covariance]] matrix
 
 #### Useful resources
 https://youtu.be/g-Hb26agBFg
+
+## LDA
+projects onto eigenvectors of the transofmerd between class scatter (using whitening transform of the wihin class scatter)
