@@ -5,8 +5,8 @@ Uses the latest information in the current output $y(t)$ to correct the current 
 ![[Pasted image 20220227161437.png]]
 ![[Pasted image 20220227160855.png]]
 - The next state estimate $\bar{x}(k+1)$ is predicted based on the current corrected state estimate $\hat{x}(k)$
-- After one samplimg period $\bar{x}(k+1)$ becomes $\bar{x}(k)$
-- The predicted state estimate $\bar{x}(k)$ is then corrected based on the current output measurment $y(k)$ to become the corrected state estimate $\hat{x}(k)$
+- After one sampling period $\bar{x}(k+1)$ becomes $\bar{x}(k)$
+- The predicted state estimate $\bar{x}(k)$ is then corrected based on the current output measurement $y(k)$ to become the corrected state estimate $\hat{x}(k)$
 
 Substitute **correction** into **prediction** equation:
 ![[Pasted image 20220227163236.png]]

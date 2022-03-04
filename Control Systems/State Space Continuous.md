@@ -7,7 +7,7 @@
 - Eigen values are poles of system
 - Estimator
 - Controllability, observability
-- Reference imput
+- Reference input
 - Integral control
 
 ## Model

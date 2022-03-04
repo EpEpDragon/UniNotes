@@ -16,7 +16,7 @@ If the system is [[Controllable]] the poles can be placed at the desired locatio
 - Using pole placement coefficient comparison:
 	1. Determine if the system is [[Controllable]]
 	2. Determine desired **closed-loop** poles
-	3. Calculate equivalent **closed-loop** poles in z plane with $Z_{CL} = e^{s_{CL}T}$ where T is the sampling priod
+	3. Calculate equivalent **closed-loop** poles in z plane with $Z_{CL} = e^{s_{CL}T}$ where T is the sampling period
 	4. Construct the **closed-loop** characteristic equation as function the controller gain **k**
 	![[Pasted image 20220227142559.png]]
 	5. Construct the **closed-loop** characteristic equation as function of desired **closed-loop** poles: 
@@ -30,7 +30,7 @@ If the system is [[Controllable]] the poles can be placed at the desired locatio
 	3. SAP
 	4. Get **open-loop** coefficients $\alpha_{1}, \alpha_{2},$ etc. from **open-loop** [[State Space Discrete]] model in [[Control Canonical Form]]:
 	 ![[Pasted image 20220227150005.png]]
-	 5. Get the desired **closed-loop** coefficinets $a_{1}, a_{2},$ etc. from desired **closed-loop** poles in the z-plane
+	 5. Get the desired **closed-loop** coefficients $a_{1}, a_{2},$ etc. from desired **closed-loop** poles in the z-plane
 	 ![[Pasted image 20220227150142.png]]
 	 6. Calculate the controller gains **k**
 	 ![[Pasted image 20220227150250.png]]

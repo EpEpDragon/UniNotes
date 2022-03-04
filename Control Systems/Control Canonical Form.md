@@ -11,7 +11,7 @@ The contorl canonical form is:
 Block diagram:
 ![[CCF block diagram.png]]
 
-## Trasformation matrix
+## Transformation matrix
 If not in [[Control Canonical Form]] a transformation matrix **P** can be used to transform it.
 ![[Pasted image 20220227150721.png]]
 Where **U** is the [[Controllable]]ity matrix
