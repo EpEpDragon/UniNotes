@@ -29,7 +29,7 @@ Determine which **rule** generally brings about the best consequences and then f
 
 Does not take into account exceptional circumstances.
 
-## Cost-benifit analysis
+## Cost-benefit analysis
 Consequences that matter are cost and benefits (financial terms)
-- As approach to molarity can justify behaviout that seems morally unacceptable.
+- As approach to molarity can justify behaviour that seems morally unacceptable.
 - Assumes everything can be measuresd in financial terms

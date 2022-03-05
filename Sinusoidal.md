@@ -1,1 +1,0 @@
-![[Sinusoidal Signals.png]]

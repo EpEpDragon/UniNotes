@@ -1,11 +1,11 @@
 # Feedback control
 **Advantages**
 - Stability
-- Dynamicially change response, command tracking
+- Dynamically change response, command tracking
 - Reject disturbances
-- Insensitive to parametar variation 
+- Insensitive to parameter variation 
 
-**Modelling techniquues**
+**Modelling techniques**
 - Differential equations
 - Laplace (s domain) transfer function
 - Block diagram

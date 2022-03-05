@@ -1,2 +1,2 @@
 # Consequentialism
-The morality of an action depends soley on the consequences of the action
+The morality of an action depends solely on the consequences of the action

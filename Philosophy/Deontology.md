@@ -1,0 +1,2 @@
+# Deontology
+Duty based ethics
