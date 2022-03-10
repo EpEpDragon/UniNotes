@@ -46,4 +46,3 @@ Used to approximate internal states
 	- [[Servo Controller]]
 	- [[Integral Control]]
 - Design [[Observer]] 
-- [[Combine Controller Observer]]

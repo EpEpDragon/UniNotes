@@ -1,4 +1,5 @@
 # Utilitarianism
+Opposite to [[Deontology]]. Consequence based ethics.
 Features:
 - [[Consequentialism]]
 - [[Hedonism]]
