@@ -66,10 +66,10 @@ https://youtu.be/g-Hb26agBFg
 Projects onto eigenvectors of the transformer between class scatter (using whitening transform of the within class scatter)
 
 **Within class scatter:**
-$$S_{W} = \sum_{j}\frac{N_{j}}{N}S_{j}$$
+$$S_{W} = \sum_{j}S_{j}$$
 Where $S_{j}$ = covariance matrix of class $j$
 Between class scatter:
-$$S_{B} = \sum_{j}\frac{N_{j}}{N}(m_{j}-m)(m_{j}-m)^T$$
+$$S_{B} = \sum_{j}(m_{j}-m)(m_{j}-m)^T$$
 Find transformation matrix $W$ that whitens $S_{W}$ and diagonalizes $S_{B}$:
 $$W^TS_{W}W = I$$
 $$W^TS_{B}W = D_{B}$$
@@ -99,8 +99,8 @@ $S_{w}$ will not be [[Full Rank]] and have some zero [[Eigen Value]]s
 	- $U^T_{B}\Lambda_{r}^{-1/2}Q^T_{r}S_{B}Q_{r}\Lambda_{r}^{-1/2}U_{B} = D_{B}$
 7. Take $d'$ larges dimensions of $U_{B}$
 8. Thus $W = Q_{r}\Lambda_{r}^{-1/2}U_{d'}$ 
-	- $WS_{W}W^T = I_{r}$
-	- $WS_{B}W^T = D_{d'}$
+	- $W^TS_{W}W = I_{r}$
+	- $W^TS_{B}W = D_{d'}$
 9. Transform data
 	- $y = W^Tx$
 

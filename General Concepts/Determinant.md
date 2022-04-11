@@ -8,4 +8,4 @@ c & d
 $$ 
 The [[Determinant]] is equal to **ab - bc**
 
- For larger matrecies the [[Determinant]] is the matrix [[Cofactor]]s multiplied by their respective elements
+ For larger matrices the [[Determinant]] is the matrix [[Cofactor]]s multiplied by their respective elements

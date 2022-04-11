@@ -4,6 +4,7 @@ Is a model of actual plant used to estimate the internal states $\hat{x}(k)$, fr
 ## Types
 - [[Prediction observer]]
 - [[Current observer]]
+- [[Kalman filter]]
 
 ## Current vs Prediction observer
 - **Use** [[Current observer]]: When fast computer or low sampling frequency

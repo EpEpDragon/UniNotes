@@ -45,4 +45,5 @@ Used to approximate internal states
 	- [[State Regulator]]
 	- [[Servo Controller]]
 	- [[Integral Control]]
+	- [[Optimal control]]
 - Design [[Observer]] 
